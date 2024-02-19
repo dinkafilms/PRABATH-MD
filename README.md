@@ -243,7 +243,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`Nadeen Poorna`](https://github.com/prabathLK)**|
 
 ---
 
